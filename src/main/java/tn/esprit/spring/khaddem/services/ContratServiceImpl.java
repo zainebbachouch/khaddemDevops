@@ -18,8 +18,6 @@ import java.util.List;
 @AllArgsConstructor
 public class ContratServiceImpl implements  IContratService{
 
-//555555
-
     ContratRepository contratRepository;
     EtudiantRepository etudiantRepository;
 
